@@ -1,0 +1,1 @@
+ini isi .php loh	
